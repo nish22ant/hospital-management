@@ -17,7 +17,7 @@ The Hospital Management System is a software application designed to manage vari
 - JPA (Java Persistence API)
 - Hibernate
 - MySQL (or your preferred database)
-- Frontend (JPA, CSS, Bootstrap)
+- Frontend (CSS, Bootstrap)
 
 ## Getting Started
 
